@@ -39,7 +39,7 @@ Welcome to my education profile! This repository showcases my academic journey, 
 ## Contact
 Feel free to reach out if you have any questions or if you'd like to connect!
 
-![Screenshot 2024-09-28 100731](https://github.com/user-attachments/assets/2f267f67-7e47-4a6f-accf-c25673243c87)
+![Screenshot 2024-10-18 160007](https://github.com/user-attachments/assets/29ac898b-b1f0-45c7-b0f1-63590bfda7e1)
 
 
 ---
